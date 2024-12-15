@@ -42,6 +42,6 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: |
           mvn clean verify sonar:sonar \
-            -Dsonar.projectKey=selenium-cucumber-e2e \
+            -Dsonar.projectKey=furkanyy_selenium-cucumber-e2e \
             -Dsonar.organization=furkanyy \
             -Dsonar.host.url=https://sonarcloud.io
