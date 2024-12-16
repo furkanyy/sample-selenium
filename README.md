@@ -1,5 +1,5 @@
 
-# **Sample Selenium Cucumber E2E Automation Project**
+# **Sample Selenium Cucumber E2E Automation Project** [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=furkanyy_selenium-cucumber-e2e&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=furkanyy_selenium-cucumber-e2e)
 
 This repository contains an end-to-end (E2E) automation framework using **Selenium**, **Cucumber**, and **JUnit5**. It is designed for testing web applications, with a structured approach for writing feature files, step definitions, and runner classes.
 
